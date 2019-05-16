@@ -1,4 +1,4 @@
-package com.hirudy.cb.cb;
+package com.zmq.cb.cb;
 
 /**
  * User: Rudy Tan

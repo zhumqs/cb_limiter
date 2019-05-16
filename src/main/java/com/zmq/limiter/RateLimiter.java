@@ -1,4 +1,4 @@
-package com.hirudy.limiter;
+package com.zmq.limiter;
 
 /**
  * User: Rudy Tan

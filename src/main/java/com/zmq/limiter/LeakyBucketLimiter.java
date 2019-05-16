@@ -1,4 +1,4 @@
-package com.hirudy.limiter;
+package com.zmq.limiter;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

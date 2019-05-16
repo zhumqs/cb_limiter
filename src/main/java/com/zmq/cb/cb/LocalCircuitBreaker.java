@@ -1,6 +1,6 @@
-package com.hirudy.cb.cb;
+package com.zmq.cb.cb;
 
-import com.hirudy.cb.state.CloseCBState;
+import com.zmq.cb.state.CloseCBState;
 
 /**
  * User: Rudy Tan

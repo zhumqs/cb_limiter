@@ -1,6 +1,6 @@
-package com.hirudy.cb.state;
+package com.zmq.cb.state;
 
-import com.hirudy.cb.cb.AbstractCircuitBreaker;
+import com.zmq.cb.cb.AbstractCircuitBreaker;
 
 /**
  * User: Rudy Tan

@@ -1,5 +1,5 @@
-import com.hirudy.cb.cb.CircuitBreaker;
-import com.hirudy.cb.cb.LocalCircuitBreaker;
+import com.zmq.cb.cb.CircuitBreaker;
+import com.zmq.cb.cb.LocalCircuitBreaker;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;

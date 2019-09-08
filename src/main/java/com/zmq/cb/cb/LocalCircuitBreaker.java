@@ -3,7 +3,7 @@ package com.zmq.cb.cb;
 import com.zmq.cb.state.CloseCBState;
 
 /**
- * User: Rudy Tan
+ * User: zhumqs
  * Date: 2018/9/22
  *
  * 本地熔断器(把它当成了工厂了)

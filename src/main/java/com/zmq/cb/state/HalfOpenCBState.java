@@ -5,7 +5,7 @@ import com.zmq.cb.cb.AbstractCircuitBreaker;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * User: Rudy Tan
+ * User: zhumqs
  * Date: 2018/9/21
  *
  * 熔断器-半开状态

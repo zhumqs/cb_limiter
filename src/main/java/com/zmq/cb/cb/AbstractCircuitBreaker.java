@@ -4,7 +4,7 @@ import com.zmq.cb.state.CBState;
 import com.zmq.cb.state.CloseCBState;
 
 /**
- * User: Rudy Tan
+ * User: zhumqs
  * Date: 2018/9/21
  *
  * 基础熔断器

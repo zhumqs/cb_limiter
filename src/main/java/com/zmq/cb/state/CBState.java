@@ -3,7 +3,7 @@ package com.zmq.cb.state;
 import com.zmq.cb.cb.AbstractCircuitBreaker;
 
 /**
- * User: Rudy Tan
+ * User: zhumqs
  * Date: 2018/9/21
  *
  * 熔断器状态
